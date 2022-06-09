@@ -8,8 +8,10 @@ Dataset used is the following: Machine Predictive Maintenance Classification [Da
   Kaggle.com
 
 # Number of samples and features
-  Number of samples: 10k rows
- Number of features: 10 columns – 8 independent variables, 2 dependent variables
+<ul>
+  <li> Number of samples: 10k rows</li>
+  <li>Number of features: 10 columns – 8 independent variables, 2 dependent variables</li>
+  </ul>
 
 # Data characteristics:
 <ul>
