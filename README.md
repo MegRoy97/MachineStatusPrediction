@@ -2,14 +2,14 @@
 A multiclass multioutput problem that tries to predict whether any failure occurred or not and the type of failure that has occurred for a given machine
 
 # The dataset used:
-	Dataset used is the following: Machine Predictive Maintenance Classification [Dataset to predict machine failure (binary) and type (multiclass)]
+Dataset used is the following: Machine Predictive Maintenance Classification [Dataset to predict machine failure (binary) and type (multiclass)]
                       
 # Data source: 
   Kaggle.com
 
 # Number of samples and features
-                      Number of samples: 10k rows
-                      Number of features: 10 columns – 8 independent variables, 2 dependent variables
+  Number of samples: 10k rows
+ Number of features: 10 columns – 8 independent variables, 2 dependent variables
 
 # Data characteristics:
 <ul>
